@@ -1,3 +1,6 @@
+### 3.1.0
+- Show emote on tooltip
+
 ### 3.0.0
 - Migrate to Foundry VTT 13.X
 - Fix issue with Narrator Mode not changing font size
